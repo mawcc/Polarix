@@ -42,7 +42,6 @@ namespace PolarixUpload
 
 			myFirstButton.Activated += MyFirstButton_Click;
 			treeScrollView.RegisterForDraggedTypes (new string[]{"NSFilenamesPboardType"});
-
 		}
 
 		private void MyFirstButton_Click(object sender, EventArgs e)
