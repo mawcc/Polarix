@@ -1,8 +1,8 @@
-﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="06/01/2013 14:45:30" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="06/03/2013 13:31:32" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="PolarixUpload/MainWindowController.cs">
     <Files>
-      <File FileName="PolarixUpload/MainWindowController.cs" Line="74" Column="20" />
+      <File FileName="PolarixUpload/MainWindowController.cs" Line="33" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
